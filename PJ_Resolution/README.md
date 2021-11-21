@@ -4,7 +4,6 @@ The United Nations General Assembly (UNGA) is the forum where 193 nations conven
 In this project, I use UNGA resolution data to understand voting patterns. I expect to see something that goes more or less along the lines of well known alliances such as the group of rich nations (G7), oil-rich countries (OPEP), former soviet countries being clustered together. Will these blocs really emerge as we expect? Or are countries defecting when it comes to passing UNGA resolutions?        
 
   - Check commented notebook here: [notebook](pj_resolution_analysis.ipynb)
-  - Check final output here: [output](pj_resolution_analysis.ipynb)
 
-![sampleviz.PNG](chintai.gif)
+![unga.png](unga.png)
 
