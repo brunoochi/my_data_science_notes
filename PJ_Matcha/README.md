@@ -6,4 +6,4 @@ After testing the library and performing the data extraction, I conduct a quick 
 - Check commented notebook here: [Jupyter notebook](PJ_Matcha.ipynb)
 - Check Tableau output here:
 
-![sampleviz.PNG](chintai.gif)
+![outputsample.JPG](outputsample.JPG)
