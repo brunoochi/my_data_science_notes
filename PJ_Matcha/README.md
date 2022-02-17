@@ -6,4 +6,4 @@ After testing the library and performing the data extraction, I conduct a quick 
 - Check commented notebook here: [Jupyter notebook](PJ_Matcha.ipynb)
 - Check Tableau output here: [Tableau Dashboard](https://public.tableau.com/views/JLPTAnalysis/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-![outputsample.JPG](outputsample.JPG)
+![outputsample1.JPG](outputsample1.JPG)
