@@ -5,6 +5,6 @@ Part 1 - Prediction) Predicted used car prices using Decision Tree, Random Fores
 
 Part 2 - Inference) Used the same data to run a linear regression. In part 2, I focus on the interpretation of coefficients (in the story that the model tells about the relationship between features and target).  
 
-- Check commented notebook: Part 1 [Jupyter notebook](Project_Car_Part1.ipynb) || Part 2 [Jupyter notebook](Project_Car_Part1.ipynb)
+- Check commented notebooks:  [Part 1](Project_Car_Part1.ipynb) and  [Part 2 (WIP)](Project_Car_Part1.ipynb)
 
 ![pjcar_predictions.jpg](pjcar_predictions.jpg)
