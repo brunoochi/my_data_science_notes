@@ -8,4 +8,4 @@ Part 2 - Inference) Used the same data to run a linear regression. In part 2, I 
 - Check commented notebook of part 1 here: [Jupyter notebook](Project_Car_Part1.ipynb)
 - Check commented notebook of part 2 here: [Jupyter notebook](Project_Car_Part1.ipynb)
 
-![pjcar_predictions.PNG](pjcar_predictions.png)
+![pjcar_predictions.jpg](pjcar_predictions.jpg)
