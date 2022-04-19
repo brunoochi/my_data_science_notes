@@ -1,5 +1,5 @@
 # PJ Resolution
-The United Nations General Assembly (UNGA) is the forum of debate where 193 nations convene to discuss world affairs and vote resolutions thatshape international law and politics.
+The United Nations General Assembly (UNGA) is the forum of debate where 193 nations convene to discuss world affairs and vote resolutions that shape international law and politics.
 <p>
 In this project, I use UNGA resolution data to understand voting patterns. I expect to see something that goes more or less along the lines of well known alliances such as the group of rich nations (G7), oil-rich countries (OPEC), former soviet countries being clustered together. Will these blocs really emerge as we expect? Or are countries defecting when it comes to passing UNGA resolutions?
   
