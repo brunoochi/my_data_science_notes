@@ -6,6 +6,6 @@ Second, I tokenize customer reviews using the Spacy library and visualize word o
 Third, I load nltk library and perform sentiment analysis. The goal is to check how the tone of customer reviews changed over time.<br>
 Fourth, using sklearn NLP capabilities, I conduct topic analysis to understand what are the dicussions points raised by Battlefield 5 reviewers.  <br>
 
-- Check commented notebook:  [Part 1](PJ_Battle.ipynb)
+- Check commented notebook:  [notebook](PJ_Battle.ipynb)
 
 ![pj_battle_network.jpg](pj_battle_network.jpg)
