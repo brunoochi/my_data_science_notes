@@ -7,5 +7,6 @@ Project work was done over a weekend and the idea was to practice data preparati
 
   - Check commented notebook here: [notebook](pj_resolution_analysis.ipynb)
 
-![unga.png](unga.png)
-
+<p align="center">
+<img src="unga.png" alt="unga.png" width="90%">
+</p>
