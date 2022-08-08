@@ -6,6 +6,6 @@ First, I scrape the data from metacritic.com, tokenize customer reviews using th
 - Check commented [notebook](PJ_Battle.ipynb)
 
 <p align="center">
-  <img width=90% height=90% src="pj_battle_network.jpg">
+  <img src="pj_battle_network.jpg" width=90% height=90%>
 </p>
 
